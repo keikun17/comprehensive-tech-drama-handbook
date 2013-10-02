@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Buddy's guide
+title: Comprehensive Tech Drama Handbook
+subtitle: Buddy's Guide to Tech Drama
 ---
 
 ## I. vim vs emacs
