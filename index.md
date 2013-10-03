@@ -87,25 +87,25 @@ subtitle: Buddy's Guide to Tech Drama
 
  * Stage 1 : A disliked sponsor attaches their name to the title of an event on an RSVP page
  * Stage 2 : Some members go 'WTF', organizers gets called out.
- * Stage 4 : Hilarity ensues
- * Stage 5 : Sponsors go "wtf? you approached us and this is what we get?"
- * Stage 6 : Community gets split, members who don't care about the drama reluctantly joins both and now has 2 separate groups to follow and post their stuff to.
+ * Stage 3 : Hilarity ensues
+ * Stage 4 : Sponsors go "wtf? you approached us and this is what we get?"
+ * Stage 5 : Community gets split, members who don't care about the drama reluctantly joins both and now has 2 separate groups to follow and post their stuff to.
 
 ## XV. Why X meetup happens in Y city? I came from Z city and I have to fight with Y traffic Alt+QQ
 
  * Stage 1 : A tech group hosts meetup in Y city
  * Stage 2 : Some members go 'OMG WTF BBQ', why not in Z city?.
- * Stage 4 : Hilarity ensues
- * Stage 5 : Offending party washes hands clean, tries to make peace
- * Stage 6 : Offending party will not attend said tech meetups ever.
+ * Stage 3 : Hilarity ensues
+ * Stage 4 : Offending party washes hands clean, tries to make peace
+ * Stage 5 : Offending party will not attend said tech meetups ever.
 
 ## XVI. Android vs iOS
 
  * Stage 1 : There's a new release of Android/iOS
  * Stage 2 : Fanboiz will OMG they copied X feature from Y OS!
- * Stage 4 : Hilarity ensues
- * Stage 5 : After 3 months, cold war again
- * Stage 6 : Windows Phone is meh
+ * Stage 3 : Hilarity ensues
+ * Stage 4 : After 3 months, cold war again
+ * Stage 5 : Windows Phone is meh
 
 ## XVII. Have your own definition of a Buzzword
 
