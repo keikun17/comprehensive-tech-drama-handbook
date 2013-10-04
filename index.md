@@ -111,3 +111,6 @@ subtitle: Buddy's Guide to Tech Drama
 
  * Stage 1 : Fix a misconception by introducing your own opinion on what a buzzword means
  * Stage 2 : YOLO
+
+## XVIII. Organize an event while there is an ongoing drama
+
