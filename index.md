@@ -67,9 +67,16 @@ subtitle: Buddy's Guide to Tech Drama
 
 ## XI. Beer
 
- * Stage 1 : Issue is raised
+ * Stage 1 : Non-consumers of Alcohol raise the issue
  * Stage 2 : Someone is told to leave
  * Stage 3 : Behavior toned down
+
+ OR
+
+ * Stage 1 : Some guy/girl gets intoxicated during an Alcohol-filled after-event
+ * Stage 2 : Said person does crazy things / gets knocked up
+ * Stage 3 : Person regrets about it
+ * Stage 4 : "It could have been prevented" blog posts gets thrown around
 
 ## XII. Vulgarity
 
