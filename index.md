@@ -1,14 +1,26 @@
 ---
 layout: default
-title: Comprehensive Tech Drama Handbook
-subtitle: Buddy's Guide to Tech Drama
+title: (in)Comprehensive Tech Drama Handbook
+subtitle: Buddy's Guide to Tech Starting Dramas
 ---
 
-## I. vim vs emacs
-## II. ruby vs python
+## I. Start a discussion about vim vs emacs vs Sublime (or Talk about Editors, in General)
+
+   * Variant 1 : Mention a text editor that is neither 'vim' or 'emacs'
+
+   - Person A : "So... I heard that {{ editor_not_vim_or_emacs }} is good"
+   - Person B : VIM DA BEST
+
+   * Variant 2 : Mention a text editor that is either 'vim' or 'emacs'
+
+   - emacs_user : *blah blah blah* emacs *blah *blah
+   - vim_user : vim can do that
+
+## II. ruby vs python (Nah... MINSWAN!)
+
 ## III. coffeescript vs javascript
 
- * Stage 1 : Damage Control
+ * Stage 1 : Somebody mentions 'coffeescript'
 
    - Person A : CS sucks, useless abstraction. QQ.
    - Person B : CS is a tool, preference blabla!
@@ -28,21 +40,19 @@ subtitle: Buddy's Guide to Tech Drama
 
 ## V. nosql vs sql
 
- * Stage 1 : Damage Control
-
-   - ...
-
+ * Stage 1 : Somebody mentions 'nosql'
  * Stage 2 : Circle Jerk
-
-   - ...
+ * Stage 3 : Counter-Circle Jerk
+ * Stage 4 : Counter-Counter-Circle Jerk
 
 ## VI. Too masochistic/Feministic/Ultra-sexist
 
- * Stage 1 : A member (most likely a girl) points out that using 'hey dudes' or 'hey guys' is gender-insensitive.
+ * Stage 1 : A member points out that using 'hey dudes' or 'hey guys' is gender-insensitive.
  * Stage 2 : Escalation
  * Stage 3 : exchange of TLDR responses
  * Stage 4 : Someone is told to leave
  * Stage 5 : Behavior toned down
+ * Stage 6 : People get confused on what gender-neutral words to use
 
 ## VII. Rockstar behavior
 
@@ -80,9 +90,10 @@ subtitle: Buddy's Guide to Tech Drama
 
 ## XII. Vulgarity
 
- * Stage 1 : Issue is raised
- * Stage 2 : Someone is told to leave
- * Stage 3 : Behavior toned down
+ * Stage 1 : "F-bomb"
+ * Stage 2 : Issue is raised
+ * Stage 3 : It gets talked about.
+ * Stage 4 : Behavior toned down
 
 ## XIII. World/Local Politics
 
