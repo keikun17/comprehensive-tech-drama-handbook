@@ -8,7 +8,7 @@ subtitle: Buddy's Guide to Tech Starting Dramas
 
    * Variant 1 : Mention a text editor that is neither 'vim' or 'emacs'
 
-     - Person A : "So... I heard that {{ editor_not_vim_or_emacs }} is good"
+     - Person A : "So... I heard that `editor_not_vim_or_emacs`is good"
      - Person B : VIM DA BEST
 
    * Variant 2 : Mention a text editor that is either 'vim' or 'emacs'
