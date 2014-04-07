@@ -26,17 +26,13 @@ subtitle: Buddy's Guide to Tech Starting Dramas
    - Person B : CS is a tool, preference blabla!
    - Person A : CS still suck!
 
- * Stage 2 : Circle Jerk - When everyone finally agrees with either person A or B
-
 ## IV. rails vs other frameworks
 
  * Stage 1 : Damage Control
 
-   - Person A : framework X sucks
-   - Person B : framework X is a tool
+   - HaterFanatic : framework X sucks, Y the best
+   - Person B : frameworks are just a a tool
    - Person A : No, framework X still sucks
-
- * Stage 2 : Circle Jerk - When everyone finally agrees with either person A or B
 
 ## V. nosql vs sql
 
@@ -77,16 +73,18 @@ subtitle: Buddy's Guide to Tech Starting Dramas
 
 ## XI. Beer
 
- * Stage 1 : Non-consumers of Alcohol raise the issue
- * Stage 2 : Someone is told to leave
- * Stage 3 : Behavior toned down
+ - Variant A
 
- OR
+   * Stage 1 : Non-consumers of Alcohol raise the issue
+   * Stage 2 : Someone is told to leave
+   * Stage 3 : Behavior toned down
 
- * Stage 1 : Some guy/girl gets intoxicated during an Alcohol-filled after-event
- * Stage 2 : Said person does crazy things / gets knocked up
- * Stage 3 : Person regrets about it
- * Stage 4 : "It could have been prevented" blog posts gets thrown around
+ - Variant B
+
+   * Stage 1 : Some guy/girl gets intoxicated during an Alcohol-filled after-event
+   * Stage 2 : Said person does crazy things / gets knocked up
+   * Stage 3 : Person regrets about it
+   * Stage 4 : "It could have been prevented" blog posts gets thrown around
 
 ## XII. Vulgarity
 
