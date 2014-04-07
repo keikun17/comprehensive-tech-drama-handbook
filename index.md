@@ -118,10 +118,9 @@ subtitle: Buddy's Guide to Tech Starting Dramas
 ## XVI. Android vs iOS
 
  * Stage 1 : There's a new release of Android/iOS
- * Stage 2 : Fanboiz will OMG they copied X feature from Y OS!
- * Stage 3 : Hilarity ensues
- * Stage 4 : After 3 months, cold war again
- * Stage 5 : Windows Phone is meh
+ * Stage 2 : Fanboiz will go "OMG they copied X feature from Y OS!"
+ * Stage 3 : Stupid conversation ensues...
+ * Stage 4 : ...Until someone mentions Windows Phone
 
 ## XVII. Have your own definition of a Buzzword
 
