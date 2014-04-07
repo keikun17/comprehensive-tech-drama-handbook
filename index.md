@@ -132,3 +132,6 @@ subtitle: Buddy's Guide to Tech Starting Dramas
 
 ## XVIII. Organize an event while there is an ongoing drama
 
+## XVIX. Complain about this tech drama handbook.
+
+ -  At last, the circle is complete.
