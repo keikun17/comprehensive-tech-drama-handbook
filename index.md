@@ -8,13 +8,13 @@ subtitle: Buddy's Guide to Tech Starting Dramas
 
    * Variant 1 : Mention a text editor that is neither 'vim' or 'emacs'
 
-   - Person A : "So... I heard that {{ editor_not_vim_or_emacs }} is good"
-   - Person B : VIM DA BEST
+     - Person A : "So... I heard that {{ editor_not_vim_or_emacs }} is good"
+     - Person B : VIM DA BEST
 
    * Variant 2 : Mention a text editor that is either 'vim' or 'emacs'
 
-   - emacs_user : *blah blah blah* emacs *blah *blah
-   - vim_user : vim can do that
+     - emacs_user : *blah blah blah* emacs *blah *blah
+     - vim_user : vim can do that
 
 ## II. ruby vs python (Nah... MINSWAN!)
 
