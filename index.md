@@ -121,4 +121,10 @@ subtitle: Buddy's Guide to Tech Starting Dramas
 
 # XX
 
+### Hijack an existing organization / event name
+
+---
+
+# XXI
+
 ### Complain about this tech drama handbook.
