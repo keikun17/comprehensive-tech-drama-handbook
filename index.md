@@ -6,7 +6,7 @@ subtitle: Buddy's Guide to Tech Starting Dramas
 
 # I
 
-### Compare vim vs emacs vs Sublime
+### Compare vim vs emacs vs sublime
 
 ---
 
@@ -37,31 +37,31 @@ subtitle: Buddy's Guide to Tech Starting Dramas
 
 # VI
 
-### Not have a speaker gender ratio of 33.33% Male, 33.33% Female, 33.33% Attack Helicopters
+### Organize an event that does not have a speaker gender ratio of 33.33% Male, 33.33% Female, 33.33% Attack Helicopters
 
 ---
 
 # VII
 
-### Rockstar behavior
+### Behave like a Rockstar
 
 ---
 
 # VIII
 
-### Hyper passivity
+### Be a passive leader, ignoring cultural and social issues, and not participate in social justice warrioring.
 
 ---
 
 # IX
 
-### Compare Freelancing vs Dev/Design shops vs Enterprise
+### Compare freelancing vs dev/design shops vs enterprise
 
 ---
 
 # X
 
-### Compare Remote work vs Office Work
+### Have an opinion about Remote Work(ing)
 
 ---
 
@@ -73,13 +73,13 @@ subtitle: Buddy's Guide to Tech Starting Dramas
 
 # XII
 
-### Vulgarity
+### F-bomb on talks / slides
 
 ---
 
 # XIII
 
-### Inject government politics in a tech discussion
+### Inject world/government politics in a tech discussion
 
 ---
 
