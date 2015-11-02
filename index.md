@@ -14,7 +14,7 @@ subtitle: Buddy's Guide to Tech Starting Dramas
 
 ## V. Mention NoSQL
 
-## VI. Too masochistic/Feministic/Ultra-sexist
+## VI. Not have a speaker gender ratio of 33.33% Male, 33.33% Female, 33.33% Attack Helicopters
 
 ## VII. Rockstar behavior
 
