@@ -1,7 +1,7 @@
 ---
 layout: default
 title: (in)Comprehensive Tech Drama Handbook
-subtitle: Buddy's Guide to Tech Starting Dramas
+subtitle: Buddy's Guide to Starting Tech Dramas
 ---
 
 # I
